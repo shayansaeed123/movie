@@ -10,7 +10,10 @@ A few resources to get you started if this is your first Flutter project:
 
 <p align="center">
   <img src="https://github.com/shayansaeed123/movie/assets/115692639/8cdb95b9-70fc-4f17-9cba-388ee1faeab9" width="300" title="hover text">
+  <img src="https://github.com/shayansaeed123/movie/assets/115692639/fbcf4d0d-52b1-47ba-9be5-7f693d88220b" width="300" title="hover text">
   ![Screenshot_20240119-232225](https://github.com/shayansaeed123/movie/assets/115692639/8cdb95b9-70fc-4f17-9cba-388ee1faeab9)
+  ![Screenshot_20240119-232143](https://github.com/shayansaeed123/movie/assets/115692639/fbcf4d0d-52b1-47ba-9be5-7f693d88220b)
+
 
 
 </p>
